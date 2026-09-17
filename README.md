@@ -27,9 +27,8 @@ Chrome, Firefox, Edge, Safari.
 El internet es todo aquel que nos da el acceso a los sitios web de busqueda y el sitio web es aquellla pagina que nos dan la informacion acerca de la busqueda.
 
 ## Pagina web y sitio web:
-
-
+un sitio web es el conjunto completo de varias páginas y archivos bajo un mismo dominio, mientras que una página web es solo un documento individual o una pantalla específica que forma parte de ese sitio
 
 ## Recurso y URL
-
+Una URL es la dirección única que identifica y localiza un recurso (página, imagen, archivo) en internet. 
 
