@@ -68,3 +68,11 @@ Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, 
  3. El servidor atiende la peticion y devuelve el HTML.
  4. El navegador lee el html y pide lo que falta: imagenes, CSS, archivos .js
  5. Construye la pagina y ejecutar el Javascript recibido.
+
+# CLASIFICACION DE TAREAS
+1. Cliente
+2. Servidor 
+3. Cliente
+4. Servidor
+5. Cliente
+6. Servidor
