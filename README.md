@@ -23,7 +23,7 @@ Chrome, Firefox, Edge, Safari.
 
 # RETO DIFERENCIAS ENTRE ESTOS:
 
-## Internet / Sitio web:
+## Internet / la web:
 El internet es todo aquel que nos da el acceso a los sitios web de busqueda y el sitio web es aquellla pagina que nos dan la informacion acerca de la busqueda.
 
 ## Pagina web y sitio web:
@@ -32,3 +32,15 @@ un sitio web es el conjunto completo de varias páginas y archivos bajo un mismo
 ## Recurso y URL
 Una URL es la dirección única que identifica y localiza un recurso (página, imagen, archivo) en internet. 
 
+
+
+# DOMINIO, ALOJAMIENTO Y PROVEEDOR
+
+## DOMINIO
+Un hombre que alquila un sitio como instituto.example
+
+## HOSTING
+El servicio que mantien los archivos y la aplicacion disponibles en un servidor, aacesible todo el dia.
+
+## PROVEEDOR DE ACCESO
+La compañia qe concecta a tu equipo a internet.
