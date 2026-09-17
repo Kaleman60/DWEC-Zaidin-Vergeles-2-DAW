@@ -96,3 +96,25 @@ La logica del negocio: procesa peticiones, aplica reglas y guarda datos.
 1. HTML (estructura)
 2. CSS (presentacion)
 3. Javascript (comportamiento)
+
+
+# MARKETING
+**- 1995:** 
+-Brendan Eich, en la empresa Netscape, crea el lenguaje en apenas 10 dias.
+- Al principio se llamaba mocha, pero despues se cambio Livescript.
+- Se renombra a javascript, aprovechando el tiron del lenguaje de java.
+
+**-1997:**
+-Netscape lo lleva ECMA International para estandarizarlo.
+
+**- Actualidad:**
+Sigue actualizando cada año.
+
+# **Cinco Rasgos de Javascript:**
+1. **Interpretado** (se valida y ejecuta linea a linea) 
+2. **Visible** (el codigo fuente puede examinarse.)
+3. **Tipado dinamico** (Una misma variable puede pasar de guardar numeros a texto.)
+4. **Orientado a objetos** (Muchos elementos del lenguaje se modelan como objetos con propiedades.)
+5. **orientado a eventos.** (Gran parte de la ejecucion reacciona a sucesos.)
+
+
