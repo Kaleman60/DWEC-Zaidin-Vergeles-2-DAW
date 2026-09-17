@@ -48,7 +48,7 @@ La compañia que concecta a tu equipo a internet. Para practicar con archivos lo
 # Aplicacion Web
 Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, entregar una actividad. No solo muestra una informacion, la procesa.
 
-**UN MISMO SITIO PUEDE SER LA DOS COSAS **
+**UN MISMO SITIO PUEDE SER LA DOS COSAS**
 
 # EL MODELO CLIENTE SERVIDOR
 
@@ -62,3 +62,9 @@ Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, 
 - Devuelve o genera el contenido
 - Verfica y guarda los datos
 
+ # ¿QUE OCURRE AL ABRIR UNA WEB
+ 1. Escribes una url o pulsas un enlace.
+ 2. El navegador localiza el servidor y le envia la peticion.
+ 3. El servidor atiende la peticion y devuelve el HTML.
+ 4. El navegador lee el html y pide lo que falta: imagenes, CSS, archivos .js
+ 5. Construye la pagina y ejecutar el Javascript recibido.
