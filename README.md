@@ -76,3 +76,23 @@ Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, 
 4. Servidor
 5. Cliente
 6. Servidor
+
+
+# FRONT-END(USUARIO)
+lo que construye la experiencia de la vista en la pagina web. 
+## LENGUAJES(HTML, CSS, JAVASCRIPT)
+
+# BACK-END (SERVIDOR)
+La logica del negocio: procesa peticiones, aplica reglas y guarda datos.
+## LENGUAJES(Java (Spring), Node.js, C#(ASP.NET), Python)
+
+# AREAS DEL DESARROLLO WEB
+1. Contenido estructura.
+2. Diseño y accesibilidad 
+3. Programacion
+4. Publicacion y mantenimiento.
+
+# Tres funciones distintas que se complementan
+1. HTML (estructura)
+2. CSS (presentacion)
+3. Javascript (comportamiento)
