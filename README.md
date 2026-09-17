@@ -37,10 +37,17 @@ Una URL es la dirección única que identifica y localiza un recurso (página, i
 # DOMINIO, ALOJAMIENTO Y PROVEEDOR
 
 ## DOMINIO
-Un hombre que alquila un sitio como instituto.example
+Un hombre que alquila un sitio como instituto.example. Se alquila a cada año.
 
 ## HOSTING
-El servicio que mantien los archivos y la aplicacion disponibles en un servidor, aacesible todo el dia.
+El servicio que mantiene los archivos y la aplicacion disponibles en un servidor, aacesible todo el dia.
 
 ## PROVEEDOR DE ACCESO
-La compañia qe concecta a tu equipo a internet.
+La compañia que concecta a tu equipo a internet. Para practicar con archivos locales no hace falta contratar nada.
+
+# Aplicacion Web
+Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, entregar una actividad. No solo muestra una informacion, la procesa.
+
+**UN MISMO SITIO PUEDE SER LA DOS COSAS **
+
+#
