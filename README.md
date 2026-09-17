@@ -18,3 +18,18 @@ La direccion de un recurso. Lo que escribes en la barra.
 ## Navegador
 Programa que abre y muestra paginas:
 Chrome, Firefox, Edge, Safari.
+
+
+
+# RETO DIFERENCIAS ENTRE ESTOS:
+
+## Internet / Sitio web:
+El internet es todo aquel que nos da el acceso a los sitios web de busqueda y el sitio web es aquellla pagina que nos dan la informacion acerca de la busqueda.
+
+## Pagina web y sitio web:
+
+
+
+## Recurso y URL
+
+
