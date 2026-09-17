@@ -50,4 +50,15 @@ Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, 
 
 **UN MISMO SITIO PUEDE SER LA DOS COSAS **
 
-#
+# EL MODELO CLIENTE SERVIDOR
+
+## CLIENTE (el navegador)
+- Pide los recursos 
+- Construye y muestra la pagina
+- Ejecuta el javascript
+
+## SERVIDOR (atiende peticiones)
+- Recibe la peticion
+- Devuelve o genera el contenido
+- Verfica y guarda los datos
+
