@@ -78,6 +78,11 @@ Permite realizar tareas desde el navegardor: enviar mnsajes, reservar una cita, 
 6. Servidor
 
 
+
+
+---JAVASCRIPT---
+
+
 # FRONT-END(USUARIO)
 lo que construye la experiencia de la vista en la pagina web. 
 ## LENGUAJES(HTML, CSS, JAVASCRIPT)
@@ -100,7 +105,7 @@ La logica del negocio: procesa peticiones, aplica reglas y guarda datos.
 
 # MARKETING
 **- 1995:** 
--Brendan Eich, en la empresa Netscape, crea el lenguaje en apenas 10 dias.
+- Brendan Eich, en la empresa Netscape, crea el lenguaje en apenas 10 dias.
 - Al principio se llamaba mocha, pero despues se cambio Livescript.
 - Se renombra a javascript, aprovechando el tiron del lenguaje de java.
 
@@ -116,5 +121,17 @@ Sigue actualizando cada año.
 3. **Tipado dinamico** (Una misma variable puede pasar de guardar numeros a texto.)
 4. **Orientado a objetos** (Muchos elementos del lenguaje se modelan como objetos con propiedades.)
 5. **orientado a eventos.** (Gran parte de la ejecucion reacciona a sucesos.)
+
+# ¿Que puede hacer y  que no puede hacer JavaScript?
+## PUEDE
+- Reaccionar a lo que hace el usuario
+- Cambiar el contenido y los estilos de la pagina
+- Comprobar datos antes de enviarlos
+- pedir datos al servidor en segundo plano
+## NO PUEDE
+- Leer o escribir archivos de tu equipo a voluntad
+- Escribir directamente en el servidor
+- Leer datos de otra web distinta
+- Guardar contraseñas o claves de forma segura.
 
 
