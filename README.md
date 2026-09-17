@@ -104,15 +104,15 @@ La logica del negocio: procesa peticiones, aplica reglas y guarda datos.
 
 
 # MARKETING
-**- 1995:** 
+**1995:** 
 - Brendan Eich, en la empresa Netscape, crea el lenguaje en apenas 10 dias.
 - Al principio se llamaba mocha, pero despues se cambio Livescript.
 - Se renombra a javascript, aprovechando el tiron del lenguaje de java.
 
-**-1997:**
--Netscape lo lleva ECMA International para estandarizarlo.
+**1997:**
+- Netscape lo lleva ECMA International para estandarizarlo.
 
-**- Actualidad:**
+**Actualidad:**
 Sigue actualizando cada año.
 
 # **Cinco Rasgos de Javascript:**
