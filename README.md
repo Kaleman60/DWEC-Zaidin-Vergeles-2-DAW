@@ -171,3 +171,12 @@ Seguirlos reduce problemas, pero no sustituye las pruebas. Es preferible comprob
 - que funcione con lectores de pantalla y otras tecnologias de apoyo.
 
 
+# REGLAS DE ESCRITURA
+
+- Las reglas de escritura y los saltos de linea no importan
+- Javascript distingue mayusculas y minusculas
+- Las comillas delimitan el texto
+- Al declarar una variable no se indica su tipo
+- No es obligatorio terminar con punto y coma; pero es la costumbre
+- Un comentario empieza por // y el navegador lo ignora por completo.
+  
