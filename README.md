@@ -135,3 +135,37 @@ Sigue actualizando cada año.
 - Guardar contraseñas o claves de forma segura.
 
 
+
+# TRES HERRAMIENTAS
+
+## EDITOR
+Aqui es donde se escribe el codigo. 
+
+## EL NAVEGADOR
+Donde se abre la pagina y se comprueba
+
+## LA CONSOLA
+se observan los mensajes y errores de compilacion.
+
+
+# Ciclo de trabajo
+
+1. Editar
+2. Guardar
+3. Recargar
+4. Observar
+5. Corregir
+
+### PORQUE HAY QUE COMPROBAR UNA WEB
+
+#### COMPATIBILIDAD
+Que la web funciones en los entornos para los que e ha preparado. Un fallo puede deberse a una funcion disponible, un archivo que no carga o un error del documento.
+
+#### ESTANDARES
+Seguirlos reduce problemas, pero no sustituye las pruebas. Es preferible comprobar lo que necesitamos a suponer que cualquier lo admite.
+
+#### ACCESIBILIDAD 
+##### ¿QUE SE COMPRUEBA?
+- Que se navegan con el teclado, sin usar el raton.
+- que el texto se pueda ampliar sin romper la pagina
+- que funcione con lectores de pantalla y otras tecnologias de apoyo
