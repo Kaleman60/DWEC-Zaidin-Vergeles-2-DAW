@@ -168,4 +168,6 @@ Seguirlos reduce problemas, pero no sustituye las pruebas. Es preferible comprob
 ##### ¿QUE SE COMPRUEBA?
 - Que se navegan con el teclado, sin usar el raton.
 - que el texto se pueda ampliar sin romper la pagina
-- que funcione con lectores de pantalla y otras tecnologias de apoyo
+- que funcione con lectores de pantalla y otras tecnologias de apoyo.
+
+
