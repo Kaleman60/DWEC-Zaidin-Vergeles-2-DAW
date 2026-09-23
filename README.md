@@ -180,3 +180,11 @@ Seguirlos reduce problemas, pero no sustituye las pruebas. Es preferible comprob
 - No es obligatorio terminar con punto y coma; pero es la costumbre
 - Un comentario empieza por // y el navegador lo ignora por completo.
   
+
+  # Atajos en vs code
+
+  **shift + alt + f** = dar formato al documento
+  **ctrl + ñ**= se abre la terminal
+  **ctrl + k, c** = se comenta la linea de codigo
+  **alt + flechas** = te mueves entre lineas
+
