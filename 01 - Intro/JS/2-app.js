@@ -1,1 +1,2 @@
-console.log("hola este es un mensaje de prueba")
+const mensaje = document.getElementById("mensaje"); 
+mensaje.textContent = "Hola desde Javascript";
