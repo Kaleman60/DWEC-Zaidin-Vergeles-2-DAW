@@ -4,7 +4,7 @@ const y = 2; // la constante no puede cambiar su valor
 var producto = "Monitor de 24 pulgadas";
 
 //reasignamos la variable
-producto = 'Monitor 19 pulgadas';
+producto = "Monitor 19 pulgadas";
 console.log(producto);
 
 var precio = 200;
