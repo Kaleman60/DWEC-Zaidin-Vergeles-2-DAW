@@ -1,9 +1,32 @@
 // variables y constantes
 let x = 10; // la variable puede cambiar su valor
 const y = 2; // la constante no puede cambiar su valor
+var producto = "Monitor de 24 pulgadas";
+
+//reasignamos la variable
+producto = 'Monitor 19 pulgadas';
+console.log(producto);
+
+var precio = 200;
+console.log(precio);
+
+//inicializacion de la variable sin valor
+var disponible;
+disponible = true;
+
+
+var categoria = "ordenadores";
+    marca = "una buena";
+    calificacion = 7;
+
+console.log(categoria);
+console.log(marca);
+console.log(calificacion);
+
+
 
 // Tipos primitivos
-let saludo = "hola"; // String
+/*let saludo = "hola"; // String
 let entero = 30; // Number
 let esAdulto = true; // Boolean
 let altura = 1.75; // Float
@@ -79,4 +102,4 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log('Email ingresado:', inputEmail.value);
         });
     }
-});
+});*/
