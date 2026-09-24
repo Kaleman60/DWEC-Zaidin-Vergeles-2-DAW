@@ -11,3 +11,5 @@ console.log(producto1);
 console.log(producto2);
 console.log(producto3);
 
+const producto4 = 'Monitor 20 pulgadas\"';
+console.log(producto4);
