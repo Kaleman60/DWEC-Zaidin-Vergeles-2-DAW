@@ -9,3 +9,4 @@ console.log(producto2);
 console.log(producto2.slice(0, 10));
 
 
+ 
