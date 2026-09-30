@@ -22,3 +22,6 @@ Precio unitario: ${precioCurso} €
 Importe sin impuestos: ${importeSinImpuestos} €
 IVA (21%): ${iva} €
 Importe final: ${importeFinal} €`;
+
+// Mostrar la factura en la consola
+console.log(factura);
